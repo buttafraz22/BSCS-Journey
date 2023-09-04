@@ -1,0 +1,10 @@
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\bin\Debug\ShpCart.exe.config
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\bin\Debug\ShpCart.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\bin\Debug\ShpCart.pdb
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.Form1.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.Properties.Resources.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.csproj.GenerateResource.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\ShpCart\obj\Debug\ShpCart.pdb

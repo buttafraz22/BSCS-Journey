@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongFrameWork", "D:\BSCS\second semester\Object Oriented Programming\form base apps\PongFrameWork\PongFrameWork.csproj", "{50849575-22BF-40DA-89E0-82BE46AE5B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong.W.FW1", "D:\BSCS\second semester\Object Oriented Programming\form base apps\Pong.W.FW1\Pong.W.FW1.csproj", "{DAE688CB-1D7D-4CD2-9009-E0AE746E8034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50849575-22BF-40DA-89E0-82BE46AE5B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50849575-22BF-40DA-89E0-82BE46AE5B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50849575-22BF-40DA-89E0-82BE46AE5B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50849575-22BF-40DA-89E0-82BE46AE5B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE688CB-1D7D-4CD2-9009-E0AE746E8034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE688CB-1D7D-4CD2-9009-E0AE746E8034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE688CB-1D7D-4CD2-9009-E0AE746E8034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE688CB-1D7D-4CD2-9009-E0AE746E8034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83A32CA-C2C6-417C-B619-F02AC92DFE74}
+	EndGlobalSection
+EndGlobal

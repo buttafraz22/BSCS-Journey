@@ -1,0 +1,14 @@
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\Pong.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\Pong.frmPong.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\Pong.csproj.GenerateResource.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\bin\Debug\EZInput.dll
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\bin\Debug\EZInput.xml
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\Pong.csproj.CopyComplete
+D:\BSCS\second semester\Object Oriented Programming\form base apps\SpaceInvaders\obj\Debug\SpaceInvaders.FormGameStart.resources

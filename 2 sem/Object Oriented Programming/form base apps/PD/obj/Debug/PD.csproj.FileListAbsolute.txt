@@ -1,0 +1,8 @@
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\bin\Debug\PD.dll
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\bin\Debug\PD.pdb
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.UserControl1.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.csproj.GenerateResource.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.dll
+D:\BSCS\second semester\Object Oriented Programming\form base apps\PD\obj\Debug\PD.pdb

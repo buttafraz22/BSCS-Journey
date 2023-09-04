@@ -1,0 +1,10 @@
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.paint.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\bin\Debug\Paint.exe.config
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\bin\Debug\Paint.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\bin\Debug\Paint.pdb
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.exe
+D:\BSCS\second semester\Object Oriented Programming\form base apps\Paint\obj\Debug\Paint.pdb
