@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLlab2", "SQLlab2\SQLlab2.csproj", "{49C91591-1F4F-403F-B335-03D251D6CCD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C91591-1F4F-403F-B335-03D251D6CCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C91591-1F4F-403F-B335-03D251D6CCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C91591-1F4F-403F-B335-03D251D6CCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C91591-1F4F-403F-B335-03D251D6CCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A266314B-06FB-46E1-896D-7968C8D75B30}
+	EndGlobalSection
+EndGlobal

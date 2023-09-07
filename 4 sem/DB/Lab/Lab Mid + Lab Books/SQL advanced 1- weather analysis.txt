@@ -1,0 +1,11 @@
+WITH average_values AS (
+	SELECT DATEPART(month,record_date) rdt, avg(data_value) averageValues
+	FROM temperature_records
+	WHERE data_type = 'avg'
+	GROUP BY DATEPART(month,record_date)
+);
+
+SELECT DATEPART(month,record_date), max(data_value),min(data_value),(CASE when av.rdt = 11 then av.averageValues else CEILING(av.averageValues + 0.5) END) avValue 
+FROM temperature_records tvt
+JOIN average_values av ON DATEPART(month,record_date) = av.rdt
+GROUP BY DATEPART(month,record_date)

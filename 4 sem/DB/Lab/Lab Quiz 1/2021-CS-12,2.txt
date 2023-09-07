@@ -1,0 +1,6 @@
+Q1
+SELECT DATENAME(month,MONTH(O.OrderDate)) AS MonthName ,SUM(OD.UnitPrice * OD.Quantity) AS Spending,(SELECT ContactName FROM Customers WHERE Customers.CustomerID = C.CustomerID) AS CustomerName FROM Customers C JOIN Orders O ON O.CustomerID = C.CustomerID JOIN [Order Details] OD ON OD.OrderID = O.OrderID WHERE YEAR(O.OrderDate) = 1997 GROUP BY C.CustomerID,MONTH(O.OrderDate)
+***
+Q2
+SELECT R.RegionDescription,SUM(OD.Quantity * OD.UnitPrice) TotalSale FROM Territories T JOIN Region R ON T.RegionID = R.RegionID JOIN EmployeeTerritories ET ON ET.TerritoryID = T.TerritoryID JOIN Employees E ON E.EmployeeID = ET.EmployeeID JOIN Orders O ON O.EmployeeID = E.EmployeeID JOIN [Order Details] OD ON OD.OrderID = O.OrderID GROUP BY R.RegionDescription
+***

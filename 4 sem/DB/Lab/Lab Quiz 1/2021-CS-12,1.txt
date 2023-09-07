@@ -1,0 +1,13 @@
+Q2
+SELECT ContactTitle 'Contact title', Region,Country FROM Customers GROUP BY ContactTitle, Region,Country HAVING COUNT(*) > 1
+***
+
+
+Q3
+SELECT UPPER(SUBSTRING(ProductName,1,1)) AS FirstLetterOfProduct, COUNT(*) AS totalProducts FROM Products GROUP BY UPPER(SUBSTRING(ProductName,1,1))
+***
+
+Q4
+SELECT LEFT(E.LastName, 1) AS FirstWord FROM Orders O JOIN Employees E ON O.EmployeeID = E.EmployeeID WHERE O.ShippedDate IS NOT NULL
+***
+

@@ -1,0 +1,10 @@
+Q2
+SELECT DISTINCT(CONCAT(SC.Session,' ',SC.Year)) SemesterName FROM SpikoCourse SC JOIN SpikoSection SS ON SS.CourseId = SC.CourseId JOIN SpikoAssignment SA ON SA.SectionId = SS.Id JOIN SpikoAssignmentSubmission SAS ON SAS.AssignmentId = SA.Id LEFT OUTER JOIN SpikoStudent SPS ON SPS.StudentId = SAS.StudentId WHERE SAS.SubmittedOn IS NOT NULL
+***
+Q4
+SELECT SS.FullName, SUM(SSE.ObtainedMarks) TotalMarks FROM SpikoCourse SC JOIN SpikoEvaluation SE ON SC.CourseId = SE.CourseId JOIN SpikoStudentEvaluation SSE ON SSE.EvaluationId = SE.Id JOIN SpikoStudent SS ON SS.StudentId = SSE.StudentId WHERE SC.CourseId = 1015 GROUP BY SS.FullName
+***
+Q5
+SELECT FullName FROM SpikoStudent WHERE StudentId IN ( SELECT SAS.StudentId FROM SpikoAssignment SA JOIN SpikoAssignmentSubmission SAS ON SAS.AssignmentId = SA.Id WHERE DATEDIFF(hour,SA.DeadLine,SAS.SubmittedOn) = 1 GROUP BY SAS.StudentId HAVING COUNT(*) > 1)
+***
+Q

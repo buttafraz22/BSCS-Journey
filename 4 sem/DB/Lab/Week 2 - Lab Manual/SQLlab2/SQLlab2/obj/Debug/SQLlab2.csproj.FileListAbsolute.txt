@@ -1,0 +1,11 @@
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\bin\Debug\SQLlab2.exe.config
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\bin\Debug\SQLlab2.exe
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\bin\Debug\SQLlab2.pdb
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.csproj.AssemblyReference.cache
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.csproj.SuggestedBindingRedirects.cache
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.Form1.resources
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.Properties.Resources.resources
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.csproj.GenerateResource.cache
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.csproj.CoreCompileInputs.cache
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.exe
+D:\BSCS\Fourth Semester\Database\Week 2 - Lab Manual\SQLlab2\SQLlab2\obj\Debug\SQLlab2.pdb
