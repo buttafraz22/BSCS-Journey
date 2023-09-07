@@ -1,0 +1,8 @@
+cat 2
+hat 4
+green 12
+eggs 3
+ham 5
+algorithmic 14
+deoxyribonucleic 3
+dodecahedron 400
